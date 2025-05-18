@@ -1,7 +1,7 @@
 ## Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
 ```
-Name : ADITYA NAGA SAI P
-Reg No : 212223110036
+Name : yagnesh kumar reddy L
+Reg No : 212223100024
 ```
 
 ### AIM:
